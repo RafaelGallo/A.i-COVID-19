@@ -1,2 +1,2 @@
 # A.i-COVID-19
-Repository artificial intelligence projects (SARS-cov 2 - Covid - 19)
+Repository artificial intelligence projects (SARS-cov 2)
