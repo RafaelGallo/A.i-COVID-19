@@ -8,7 +8,7 @@ Data analysis.
 
 Forecasting project with machine learning.
 
-unsupervised algorithm - K-means.
+Unsupervised algorithm - K-means.
 
 Convolutional neural network.
 
