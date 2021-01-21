@@ -1,5 +1,21 @@
+
+![SARS-CoV-2](https://github.com/RafaelGallo/COVID-19-Open-Research-kaggle/blob/master/giphy.gif)
+
 # A.i-COVID-19
 Repository artificial intelligence projects (SARS-cov 2)
 
+# Topics 
+Data analysis
+Forecasting project with machine learning.
+Unsupervised machine learning algorithm.
+Convolutional neural network
+Neural network - Using Transfer Learning
 
-![SARS-CoV-2](https://github.com/RafaelGallo/COVID-19-Open-Research-kaggle/blob/master/giphy.gif)
+
+# Kaggle
+[Research COVID-19](https://www.kaggle.com/allen-institute-for-ai/CORD-19-research-challenge/)
+
+
+
+
+
