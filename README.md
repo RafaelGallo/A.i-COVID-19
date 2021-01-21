@@ -1,4 +1,4 @@
-
+[![author](https://img.shields.io/badge/author-RafaelGallo-red.svg)](https://github.com/RafaelGallo?tab=repositories)
 
 # A.i-COVID-19
 Repository artificial intelligence projects (SARS-cov 2).
