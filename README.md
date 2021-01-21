@@ -5,10 +5,15 @@ Repository artificial intelligence projects (SARS-cov 2)
 
 # Topics 
 Data analysis
+
 Forecasting project with machine learning.
+
 Unsupervised machine learning algorithm.
-Convolutional neural network
-Neural network - Using Transfer Learning
+
+Convolutional neural network.
+
+Neural network - Using Transfer Learning.
+
 
 
 # Kaggle
