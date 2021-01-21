@@ -19,4 +19,4 @@ Neural network - Using Transfer Learning
 
 
 
-![SARS-CoV-2](https://github.com/RafaelGallo/COVID-19-Open-Research-kaggle/blob/master/giphy.gif)
+![SARS-CoV-2](https://github.com/RafaelGallo/A.i-COVID-19/blob/main/giphy.gif)
