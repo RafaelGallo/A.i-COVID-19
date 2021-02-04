@@ -25,7 +25,8 @@ Kaggle Covid-19 research challenge.
 CNN - Chest X-Ray Images (Pneumonia).
 [CNN - Chest X-Ray Images (Pneumonia)](https://www.kaggle.com/paultimothymooney/chest-xray-pneumonia)
 
-
+Covid19 São Paulo
+[Covid-19 SP](https://www.kaggle.com/ricardosaat/covid19saopaulosp)
 
 Achine learning model and forecasting models.
 [Covid-19 - forecasting models and data analysis, unsupervised algorithm](https://github.com/CSSEGISandData/COVID-19)
