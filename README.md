@@ -10,10 +10,11 @@ Forecasting project with machine learning.
 
 Unsupervised algorithm - K-means.
 
-Convolutional neural network.
+CNN - Convolutional neural network.
 
-Neural network - Using Transfer Learning.
+NNTL - Neural network - Using Transfer Learning.
 
+PLN - Natural language process
 
 
 # Data used in the project COVID-19 A.i
